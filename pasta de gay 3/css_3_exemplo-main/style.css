@@ -1,0 +1,29 @@
+img {
+    max-width: 40%;
+    display:block;
+    margin:auto;
+    height:auto;
+}
+
+body, h1, h2, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family:"Copperplate"
+    line-height: 1.6;
+    background-color: #7a7676;
+    color: #333;
+}
+
+header {
+    background-color: rgb(6, 23, 43);
+    color: #f81818;
+    text-align: center;
+    padding: 20px;
+}
+
+header h1 {
+    margin-bottom: 10px;
+}
